@@ -2729,6 +2729,24 @@ input, select, textarea {
                                 background-color: #545040;
                         }
 
+                        .tiles article.stylega2 > .image:before {
+                                background-color: #5F96CF;
+                        }
+                        .tiles article.styleucosow > .image:before {
+                                background-color: #38404C;
+                        }
+                        .tiles article.styleunicef > .image:before {
+                                background-color: #96491E;
+                        }
+                        .tiles article.styleunfccc > .image:before {
+                                background-color: #CA8A4B;
+                        }
+                        .tiles article.styleunhcr > .image:before {
+                                background-color: #5F5F4F;
+                        }
+                        .tiles article.stylewho > .image:before {
+                                background-color: #63C6DD;
+                        }
 
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
