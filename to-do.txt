@@ -1,5 +1,3 @@
 .com domain
 add secretariat and principal messages
-confirm registration closing date
-update payment stuff
 committee venues and itinerary
