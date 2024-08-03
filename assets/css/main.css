@@ -2963,21 +2963,20 @@ input, select, textarea {
 						#header nav ul li a[href="#menu"]:hover:after {
 							opacity: 0;
 						}
-						#header nav ul ul{ 
+						#header nav ul li ul{ 
 							position: absolute;
   							top: 100%;
   							display: none;
 						}
-						#header nav ul ul li{
+						#header nav ul li ul li{
   							display: block;
-							width: 6em;
-							height: 2em;
+							
+							
 							
 						}
 						#header nav ul li:hover ul{ 
 							display: block;
-							width: 6em;
-							height: 2em;
+							
 							
 						}
 						#header nav ul ul li a:hover {
