@@ -2971,8 +2971,11 @@ input, select, textarea {
 						#header nav ul ul li{
   							display: block;
 						}
-						#header nav li:hover ul{ 
+						#header nav ul li:hover ul{ 
 							display: block;
+							width: 4em;
+							height: 4em;
+							
 						}
 						#header nav ul ul li a:hover {
   							background-color: #555;
